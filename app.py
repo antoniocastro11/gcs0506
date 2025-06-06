@@ -8,5 +8,3 @@ def soma(a,b):
 
 def main():
     """Função principal da aplicação"""
-    pass  
-    
